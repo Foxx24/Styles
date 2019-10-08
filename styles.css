@@ -1,0 +1,37 @@
+/* Intro to CSS */
+
+body {
+	font-family: sans-serif;
+	background-color: grey;
+	color: red;
+	align-content: center;
+	max-width: auto;
+	margin-width: auto;
+	border-style: dotted solid;
+	border-color: green;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 10em;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+em {
+	font-size: 100em;
+}
+p {
+	font-family: helvetica;
+	font-size: 20px;
+	margin-bottom: 5em;
+	text-indent: 80px;
+}
+
+link {
+	color: hotpink;
+}
